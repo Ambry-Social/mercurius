@@ -1,4 +1,4 @@
-![Mercurius Project Banner](https://github.com/Ambry-Social/mercurius/blob/main/assets/img/banner.png)
+![Mercurius Project Banner](https://github.com/Ambry-Social/mercurius/blob/main/assets/img/banner-git.png)
 
 # Mercurius
 Mercurius adds cross-posting (from your Fediverse instance to legacy social networks like Facebook, Twitter, LinkedIn, etc...) and content scheduling support for Mastodon and Pleroma FE. 
